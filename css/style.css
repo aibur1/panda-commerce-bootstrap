@@ -1,0 +1,19 @@
+.aibur-bg{
+    background-color:#fceae8;
+}
+.categories-bag{
+   background-color: orchid; 
+}
+.panda-buy-now{
+    background-color: #ff4991;
+    border:none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color:white;
+}
+.categories img{
+    width:100px;
+    
+
+}
